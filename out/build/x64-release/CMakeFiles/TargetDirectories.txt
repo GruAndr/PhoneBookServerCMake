@@ -1,0 +1,5 @@
+C:/Users/gruan/source/repos/PhoneBookServerCMake/out/build/x64-release/CMakeFiles/edit_cache.dir
+C:/Users/gruan/source/repos/PhoneBookServerCMake/out/build/x64-release/CMakeFiles/rebuild_cache.dir
+C:/Users/gruan/source/repos/PhoneBookServerCMake/out/build/x64-release/PhoneBookServerCMake/CMakeFiles/PhoneBookServerCMake.dir
+C:/Users/gruan/source/repos/PhoneBookServerCMake/out/build/x64-release/PhoneBookServerCMake/CMakeFiles/edit_cache.dir
+C:/Users/gruan/source/repos/PhoneBookServerCMake/out/build/x64-release/PhoneBookServerCMake/CMakeFiles/rebuild_cache.dir
